@@ -1,0 +1,47 @@
+site_name: Rotalabs
+site_description: AI Trust Infrastructure - Documentation Hub
+site_url: https://rotalabs.github.io/rotalabs/
+site_author: Rotalabs
+
+repo_name: rotalabs/rotalabs
+repo_url: https://github.com/rotalabs/rotalabs
+
+copyright: Copyright &copy; 2024-2026 Rotalabs. Licensed under AGPL-3.0.
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.instant
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/rotalabs
+    - icon: fontawesome/solid/globe
+      link: https://rotalabs.ai
