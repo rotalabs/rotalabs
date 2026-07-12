@@ -54,7 +54,7 @@ pip install rotalabs-steer[langchain,viz]
 
 ## License
 
-All packages are licensed under [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html).
+Rotalabs libraries are licensed under [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0). Red Queen (`rotalabs-redqueen`) is licensed under [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html), with commercial licenses available via research@rotalabs.ai.
 
 For commercial licensing inquiries, contact [research@rotalabs.ai](mailto:research@rotalabs.ai).
 
