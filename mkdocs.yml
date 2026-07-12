@@ -6,7 +6,7 @@ site_author: Rotalabs
 repo_name: rotalabs/rotalabs
 repo_url: https://github.com/rotalabs/rotalabs
 
-copyright: Copyright &copy; 2024-2026 Rotalabs. Licensed under AGPL-3.0.
+copyright: Copyright &copy; 2024-2026 Rotalabs. Licensed under Apache-2.0.
 
 theme:
   name: material
