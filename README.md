@@ -30,7 +30,7 @@ pip install rotalabs-verity
 
 ## License
 
-Rotalabs libraries are licensed under [Apache-2.0](LICENSE). Red Queen (`rotalabs-redqueen`) is licensed under AGPL-3.0-or-later, with commercial licenses available — contact [research@rotalabs.ai](mailto:research@rotalabs.ai).
+Rotalabs libraries are licensed under [Apache-2.0](LICENSE). Red Queen (`rotalabs-redqueen`) is licensed under AGPL-3.0-or-later, with commercial licenses available. Contact [research@rotalabs.ai](mailto:research@rotalabs.ai).
 
 ## Links
 
